@@ -7,5 +7,6 @@
  */
 
 module.exports = {
-    url : 'mongodb://bgoel:samsung47cmcm@ds049198.mongolab.com:49198/myproject'
+    url : 'mongodb://bgoel:prumind@ds049198.mongolab.com:49198/myproject'
+    //mongodb://bgoel:samsung47cmcm@novus.modulusmongo.net:27017/zYsaj2ip
 }
